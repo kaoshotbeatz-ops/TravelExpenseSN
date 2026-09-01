@@ -69,6 +69,10 @@ declare global {
                         table: 'sys_module'
                         id: '6cb055c335bf42dd93fbe16be10ba605'
                     }
+                    'src_server_supplier-cc-code_js': {
+                        table: 'sys_module'
+                        id: '2941190e61dd4b3ca84f3873b43eea85'
+                    }
                     src_server_TEApprovalRouter_js: {
                         table: 'sys_module'
                         id: 'f1988694ab7c4f63a0d6dc116b79d525'
@@ -116,6 +120,10 @@ declare global {
                     src_server_TRShopperQual_js: {
                         table: 'sys_module'
                         id: '81219d8827824f77926b9f227375f73b'
+                    }
+                    supplier_cc_code: {
+                        table: 'sys_script'
+                        id: 'a68a8809c1684e728c9f3652a0d53a4d'
                     }
                     tne_app_appr_all: {
                         table: 'sys_ux_applicability_m2m_list'
